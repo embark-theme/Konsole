@@ -38,7 +38,7 @@ Color=161,239,211
 Color=161,239,211
 
 [Color2Intense]
-Color=98,209,150
+Color=127,233,195
 
 [Color3]
 Color=255,230,179
@@ -56,7 +56,7 @@ Color=145,221,255
 Color=145,221,255
 
 [Color4Intense]
-Color=101,178,255
+Color=120,168,255
 
 [Color5]
 Color=212,191,255
@@ -65,13 +65,13 @@ Color=212,191,255
 Color=212,191,255
 
 [Color5Intense]
-Color=163,122,204
+Color=118,118,255
 
 [Color6]
-Color=135,223,235
+Color=171,248,247
 
 [Color6Faint]
-Color=135,223,235
+Color=171,248,247
 
 [Color6Intense]
 Color=99,242,241
@@ -108,4 +108,5 @@ Description=Embark
 FillStyle=Tile
 Opacity=1
 Wallpaper=
+WallpaperFlipType=NoFlip
 WallpaperOpacity=1
